@@ -6,6 +6,7 @@ Diese Links verwenden das Muster:
 ## Für das Paket **com.android.settings**
 
 - [ManageApplications öffnen](intent://com.android.settings.applications.ManageApplications/#Intent;scheme=android-app;end)
+- [ManageApplications öffnen]<intent://com.android.settings.applications.ManageApplications/#Intent;scheme=android-app;end>
 - [SystemDashboardActivity öffnen](intent://com.android.settings.Settings$SystemDashboardActivity/#Intent;scheme=android-app;end)
 - [SubSettings öffnen](intent://com.android.settings.SubSettings/#Intent;scheme=android-app;end)
 
